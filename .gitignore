@@ -1,0 +1,8 @@
+
+# Build & compiled output
+out/
+bin/
+*.class
+
+# VS Code settings (optional, recommended)
+.vscode/
